@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul li {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+body {
+    background-color: #708090;
+}
